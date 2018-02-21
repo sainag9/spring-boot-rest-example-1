@@ -6,7 +6,7 @@
 	<groupId>com.rpicloud</groupId>
 	<artifactId>spring-boot-rest-example</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<packaging>jar</packaging>
+	<packaging>war</packaging>
 
 	<name>spring-boot-rest-example</name>
 	<description>Demo project created by Kasper Nissen, rpi-cloud.com</description>
